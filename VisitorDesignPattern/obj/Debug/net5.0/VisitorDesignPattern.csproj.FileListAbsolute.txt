@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\TemplateMethod,VisitorDesignPatterns\VisitorDesignPattern\bin\Debug\net5.0\VisitorDesignPattern.exe
+C:\Users\user\source\repos\TemplateMethod,VisitorDesignPatterns\VisitorDesignPattern\bin\Debug\net5.0\VisitorDesignPattern.deps.json
+C:\Users\user\source\repos\TemplateMethod,VisitorDesignPatterns\VisitorDesignPattern\bin\Debug\net5.0\VisitorDesignPattern.runtimeconfig.json
+C:\Users\user\source\repos\TemplateMethod,VisitorDesignPatterns\VisitorDesignPattern\bin\Debug\net5.0\VisitorDesignPattern.runtimeconfig.dev.json
+C:\Users\user\source\repos\TemplateMethod,VisitorDesignPatterns\VisitorDesignPattern\bin\Debug\net5.0\VisitorDesignPattern.dll
+C:\Users\user\source\repos\TemplateMethod,VisitorDesignPatterns\VisitorDesignPattern\bin\Debug\net5.0\ref\VisitorDesignPattern.dll
+C:\Users\user\source\repos\TemplateMethod,VisitorDesignPatterns\VisitorDesignPattern\bin\Debug\net5.0\VisitorDesignPattern.pdb
+C:\Users\user\source\repos\TemplateMethod,VisitorDesignPatterns\VisitorDesignPattern\obj\Debug\net5.0\VisitorDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\TemplateMethod,VisitorDesignPatterns\VisitorDesignPattern\obj\Debug\net5.0\VisitorDesignPattern.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TemplateMethod,VisitorDesignPatterns\VisitorDesignPattern\obj\Debug\net5.0\VisitorDesignPattern.AssemblyInfo.cs
+C:\Users\user\source\repos\TemplateMethod,VisitorDesignPatterns\VisitorDesignPattern\obj\Debug\net5.0\VisitorDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TemplateMethod,VisitorDesignPatterns\VisitorDesignPattern\obj\Debug\net5.0\VisitorDesignPattern.dll
+C:\Users\user\source\repos\TemplateMethod,VisitorDesignPatterns\VisitorDesignPattern\obj\Debug\net5.0\ref\VisitorDesignPattern.dll
+C:\Users\user\source\repos\TemplateMethod,VisitorDesignPatterns\VisitorDesignPattern\obj\Debug\net5.0\VisitorDesignPattern.pdb
+C:\Users\user\source\repos\TemplateMethod,VisitorDesignPatterns\VisitorDesignPattern\obj\Debug\net5.0\VisitorDesignPattern.genruntimeconfig.cache

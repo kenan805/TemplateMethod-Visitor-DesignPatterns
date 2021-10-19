@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\TemplateMethod,VisitorDesignPatterns\TemplateMethod,VisitorDesignPatterns\bin\Debug\net5.0\TemplateMethod,VisitorDesignPatterns.exe
+C:\Users\user\source\repos\TemplateMethod,VisitorDesignPatterns\TemplateMethod,VisitorDesignPatterns\bin\Debug\net5.0\TemplateMethod,VisitorDesignPatterns.deps.json
+C:\Users\user\source\repos\TemplateMethod,VisitorDesignPatterns\TemplateMethod,VisitorDesignPatterns\bin\Debug\net5.0\TemplateMethod,VisitorDesignPatterns.runtimeconfig.json
+C:\Users\user\source\repos\TemplateMethod,VisitorDesignPatterns\TemplateMethod,VisitorDesignPatterns\bin\Debug\net5.0\TemplateMethod,VisitorDesignPatterns.runtimeconfig.dev.json
+C:\Users\user\source\repos\TemplateMethod,VisitorDesignPatterns\TemplateMethod,VisitorDesignPatterns\bin\Debug\net5.0\TemplateMethod,VisitorDesignPatterns.dll
+C:\Users\user\source\repos\TemplateMethod,VisitorDesignPatterns\TemplateMethod,VisitorDesignPatterns\bin\Debug\net5.0\ref\TemplateMethod,VisitorDesignPatterns.dll
+C:\Users\user\source\repos\TemplateMethod,VisitorDesignPatterns\TemplateMethod,VisitorDesignPatterns\bin\Debug\net5.0\TemplateMethod,VisitorDesignPatterns.pdb
+C:\Users\user\source\repos\TemplateMethod,VisitorDesignPatterns\TemplateMethod,VisitorDesignPatterns\obj\Debug\net5.0\TemplateMethod,VisitorDesignPatterns.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\TemplateMethod,VisitorDesignPatterns\TemplateMethod,VisitorDesignPatterns\obj\Debug\net5.0\TemplateMethod,VisitorDesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\TemplateMethod,VisitorDesignPatterns\TemplateMethod,VisitorDesignPatterns\obj\Debug\net5.0\TemplateMethod,VisitorDesignPatterns.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TemplateMethod,VisitorDesignPatterns\TemplateMethod,VisitorDesignPatterns\obj\Debug\net5.0\TemplateMethod,VisitorDesignPatterns.AssemblyInfo.cs
+C:\Users\user\source\repos\TemplateMethod,VisitorDesignPatterns\TemplateMethod,VisitorDesignPatterns\obj\Debug\net5.0\TemplateMethod,VisitorDesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TemplateMethod,VisitorDesignPatterns\TemplateMethod,VisitorDesignPatterns\obj\Debug\net5.0\TemplateMethod,VisitorDesignPatterns.dll
+C:\Users\user\source\repos\TemplateMethod,VisitorDesignPatterns\TemplateMethod,VisitorDesignPatterns\obj\Debug\net5.0\ref\TemplateMethod,VisitorDesignPatterns.dll
+C:\Users\user\source\repos\TemplateMethod,VisitorDesignPatterns\TemplateMethod,VisitorDesignPatterns\obj\Debug\net5.0\TemplateMethod,VisitorDesignPatterns.pdb
+C:\Users\user\source\repos\TemplateMethod,VisitorDesignPatterns\TemplateMethod,VisitorDesignPatterns\obj\Debug\net5.0\TemplateMethod,VisitorDesignPatterns.genruntimeconfig.cache
